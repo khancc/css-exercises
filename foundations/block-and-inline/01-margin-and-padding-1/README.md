@@ -21,7 +21,8 @@ Thực hành Margin và Padding
 
 Trong bài tập này, bạn chỉ cần chỉnh sửa file style.css để các khối div trông giống như hình bên dưới. Chỉ sửa CSS ở nơi được hướng dẫn trong file. Bạn chỉ cần thay đổi giá trị của margin và padding cho bài tập này. Không cần thêm hoặc xóa thuộc tính nào trong CSS, và cũng không cần chỉnh sửa file HTML.
 
-Self-check
+### Self-check
+
 Tự kiểm tra
 Sử dụng phần này để kiểm tra công việc của bạn. Ở những dự án này, mục tiêu không phải là đạt độ chính xác 100% về pixel mà là sử dụng các công cụ bạn đã học để đạt kết quả tương đối gần với đầu ra mong muốn.
 
